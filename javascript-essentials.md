@@ -1,6 +1,6 @@
 # JavaScript Essentials
 
-1. [Visualize Your JavaScript Step by Step Using the Python Tutor Tool](https://drive.google.com/file/d/1A5uNeorZMFmetYoX3oz22u4lnpsgPucj/view?usp=sharing)
+1. [Get Your Hands Dirty & Visualize Your JavaScript Step by Step Using the Python Tutor Tool](https://drive.google.com/file/d/1A5uNeorZMFmetYoX3oz22u4lnpsgPucj/view?usp=sharing)
 
 1. Conditionals
     1. [Conditionals pt.1](https://drive.google.com/file/d/1LFSE9Psr8tSAL68zVRatqsvDNIuhG-Xf/view?usp=sharing) - using `if` and `else` statements to decide whether or not to run code
