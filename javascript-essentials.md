@@ -2,6 +2,11 @@
 
 1. [Visualize Your JavaScript Step by Step Using this Tool](https://drive.google.com/file/d/1A5uNeorZMFmetYoX3oz22u4lnpsgPucj/view?usp=sharing)
 
+1. Conditionals
+    1. [Conditionals pt.1](https://drive.google.com/file/d/1LFSE9Psr8tSAL68zVRatqsvDNIuhG-Xf/view?usp=sharing) - using `if` and `else` statements to decide whether or not to run code
+    1. [Conditionals pt.2](https://drive.google.com/file/d/1i-ZAuB6hjjjMOd0PNKFBG1saChOEjVvX/view?usp=sharing) - using `else if` statements to control the flow of conditionals
+    1. [Conditionals pt.3](https://drive.google.com/file/d/1NqK0MJkjlIWJJItcQ6tlWZ3hQSHiwHYU/view?usp=sharing) - using `nested if` statements to add behavior to the parent `if` statement
+
 1. While Loops
 
     1. [While Loop pt.1](https://drive.google.com/file/d/1gmEPl9PJcQ8cyue5n9wO4WvUG4myY8rW/view?usp=sharing) - see the anatomy and breakdown of a while loop
