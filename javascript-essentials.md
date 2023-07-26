@@ -1,10 +1,16 @@
 # JavaScript Essentials
 
 
+1. [Visualize Your JavaScript Step by Step Using this Tool](https://drive.google.com/file/d/1A5uNeorZMFmetYoX3oz22u4lnpsgPucj/view?usp=sharing)
+
 1. [While Loop pt.1](https://drive.google.com/file/d/1gmEPl9PJcQ8cyue5n9wO4WvUG4myY8rW/view?usp=sharing)
 
 1. [While Loop pt.2](https://drive.google.com/file/d/1LVJMM2ubrhhj72IDH5-ZWwHT0zsRxZ7E/view?usp=sharing)
 
 1. [While Loop pt.3](https://drive.google.com/file/d/1wdZenJoUa62OD8UU0Z-dT-viPIIE2NDV/view?usp=sharing)
 
-1. [For Loop]
+1. [For Loop pt.1](https://drive.google.com/file/d/19lbfSPJP8wNLIaUmyKg9JgaSVSraARMx/view?usp=sharing)
+
+1. [For Loop pt.2](https://drive.google.com/file/d/18gJn619yLZt7GnRCcyLCq1Cp17Fp7gGh/view?usp=sharing)
+
+1. [For Loop pt.3](https://drive.google.com/file/d/1sT6_4vfyXyGK8GYEOqrdo-N7q3VPB_l0/view?usp=sharing)
