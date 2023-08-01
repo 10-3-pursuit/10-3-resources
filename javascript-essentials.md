@@ -32,7 +32,7 @@
 1. Functions
     1. [Function Introduction & Function Declaration](https://drive.google.com/file/d/1IwIMcxX3RlVLxgD3HOaHhNbLOgeyIi_u/view?usp=sharing)
     
-    1. [Function Inputs & Outpust (parameters, arguments, return)](https://drive.google.com/file/d/1ij4Fm4Q71XK3KdcFA5rJNypnq0kKpKHJ/view?usp=sharing)
+    1. [Function Inputs & Outputs (parameters, arguments, return)](https://drive.google.com/file/d/1ij4Fm4Q71XK3KdcFA5rJNypnq0kKpKHJ/view?usp=sharing)
 
     1. [Visualize Using Inputs & Outputs in Python Tutor](https://drive.google.com/file/d/1rR2HNdLDJbHfgQO4-N0ydrTfxQQu9rcg/view?usp=sharing) - visualize parameters, arguments as well as seeing the return value of a function
 
