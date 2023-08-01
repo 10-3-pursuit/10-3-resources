@@ -8,5 +8,7 @@ These are resources you may have posted in the Slack Channel that may be worthwh
 1. [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
 1. [Functions](https://www.programiz.com/javascript/function)
 
-[Home](README.md)
 
+[Home][def]
+
+[def]: README.md
