@@ -23,7 +23,7 @@
 
     1. [For Loop pt.3](https://drive.google.com/file/d/1sT6_4vfyXyGK8GYEOqrdo-N7q3VPB_l0/view?usp=sharing)- Use Python Tutor to visualize step by step how the code for a while loop executes 
 
-    1. [Iterate through String or Array Using a For Loop - Intro](https://drive.google.com/file/d/1e6cFjNbA4moy_7eMYEriDZ1ctRhJR46o/view?usp=sharing) - learn the meaning of index and .length for strings and arrays
+    1. [Iterate through String or Array Using a For Loop - Intro](https://drive.google.com/file/d/1e6cFjNbA4moy_7eMYEriDZ1ctRhJR46o/view?usp=sharing) - learn the meaning of `index`` and ``.length`` for strings and arrays
 
     1. [Visualize For Loop Iteration of a String](https://drive.google.com/file/d/1zgyCHuxwQCt2CQ_TfKIilE_3IKFzOla5/view?usp=sharing) - use Python Tutor to visualize referencing each index as well as the length of a string or array
 
