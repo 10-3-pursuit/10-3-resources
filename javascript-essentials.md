@@ -27,7 +27,7 @@
 
     1. [Iterate through String or Array Using a For Loop - Intro](https://drive.google.com/file/d/1e6cFjNbA4moy_7eMYEriDZ1ctRhJR46o/view?usp=sharing) - learn the meaning of `index` and `.length` for strings and arrays
 
-    1. [Visualize For Loop Iteration of a String](https://drive.google.com/file/d/1zgyCHuxwQCt2CQ_TfKIilE_3IKFzOla5/view?usp=sharing) - use Python Tutor to visualize referencing each index as well as the length of a string or array
+    1. [Visualize For Loop Iteration of a String](https://drive.google.com/file/d/1zgyCHuxwQCt2CQ_TfKIilE_3IKFzOla5/view?usp=sharing) - use Python Tutor to visualize referencing each index as well as using `.length` to find the length of a string or array
 
 1. Functions
     1. [Function Introduction & Function Declaration](https://drive.google.com/file/d/1IwIMcxX3RlVLxgD3HOaHhNbLOgeyIi_u/view?usp=sharing)
