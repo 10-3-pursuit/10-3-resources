@@ -19,10 +19,22 @@
 1. For Loops
     1. [For Loop pt.1](https://drive.google.com/file/d/19lbfSPJP8wNLIaUmyKg9JgaSVSraARMx/view?usp=sharing)- see the anatomy and breakdown of a for loop
 
-    1. [For Loop pt.2](https://drive.google.com/file/d/18gJn619yLZt7GnRCcyLCq1Cp17Fp7gGh/view?usp=sharing) - see a for loop in action using repl.it
+    1. [For Loop pt.2](https://drive.google.com/file/d/18gJn619yLZt7GnRCcyLCq1Cp17Fp7gGh/view?usp=sharing) - Use Repl.it to see a for loop in action
 
-    1. [For Loop pt.3](https://drive.google.com/file/d/1sT6_4vfyXyGK8GYEOqrdo-N7q3VPB_l0/view?usp=sharing)- visualize step by step how the code for a while loop executes using the Python Tutor tool
+    1. [For Loop pt.3](https://drive.google.com/file/d/1sT6_4vfyXyGK8GYEOqrdo-N7q3VPB_l0/view?usp=sharing)- Use Python Tutor to visualize step by step how the code for a while loop executes 
 
+    1. [Iterate through String or Array Using a For Loop - Intro](https://drive.google.com/file/d/1e6cFjNbA4moy_7eMYEriDZ1ctRhJR46o/view?usp=sharing) - learn the meaning of index and .length for strings and arrays
+
+    1. [Visualize For Loop Iteration of a String](https://drive.google.com/file/d/1zgyCHuxwQCt2CQ_TfKIilE_3IKFzOla5/view?usp=sharing) - use Python Tutor to visualize referencing each index as well as the length of a string or array
+
+1. Functions
+    1. [Function Introduction & Function Declaration](https://drive.google.com/file/d/1IwIMcxX3RlVLxgD3HOaHhNbLOgeyIi_u/view?usp=sharing)
+    
+    1. [Function Inputs & Outpust (parameters, arguments, return)](https://drive.google.com/file/d/1ij4Fm4Q71XK3KdcFA5rJNypnq0kKpKHJ/view?usp=sharing)
+
+    1. [Visualize Using Inputs & Outputs in Python Tutor](https://drive.google.com/file/d/1rR2HNdLDJbHfgQO4-N0ydrTfxQQu9rcg/view?usp=sharing) - visualize parameters, arguments as well as seeing the return value of a function
+
+    1. [Create a Arrow Function](https://drive.google.com/file/d/1qsmZBM4EvvP7qK9ReUXRviGgBsW5SgBJ/view?usp=sharing) - convert traditional function syntax using the function keyword to an Arrow Function
 
 [Home][def]
 
