@@ -4,12 +4,14 @@
 
 1. Conditionals
     1. [Conditionals pt.1](https://drive.google.com/file/d/1LFSE9Psr8tSAL68zVRatqsvDNIuhG-Xf/view?usp=sharing) - using `if` and `else` statements to decide whether or not to run code
+
     1. [Conditionals pt.2](https://drive.google.com/file/d/1i-ZAuB6hjjjMOd0PNKFBG1saChOEjVvX/view?usp=sharing) - using `else if` statements to control the flow of conditionals
+
     1. [Conditionals pt.3](https://drive.google.com/file/d/1NqK0MJkjlIWJJItcQ6tlWZ3hQSHiwHYU/view?usp=sharing) - using `nested if` statements to add behavior to the parent `if` statement
 
 1. While Loops
 
-    1. [While Loop pt.1](https://drive.google.com/file/d/1gmEPl9PJcQ8cyue5n9wO4WvUG4myY8rW/view?usp=sharing) - see the anatomy and breakdown of a while loop
+    1. [While Loop pt.1](https://drive.google.com/file/d/1gmEPl9PJcQ8cyue5n9wO4WvUG4myY8rW/view?usp=sharing) - see the anatomy and breakdown of a `while` loop
 
     1. [While Loop pt.2](https://drive.google.com/file/d/1LVJMM2ubrhhj72IDH5-ZWwHT0zsRxZ7E/view?usp=sharing)- see a while loop in action using repl.it
 
@@ -23,7 +25,7 @@
 
     1. [For Loop pt.3](https://drive.google.com/file/d/1sT6_4vfyXyGK8GYEOqrdo-N7q3VPB_l0/view?usp=sharing)- Use Python Tutor to visualize step by step how the code for a while loop executes 
 
-    1. [Iterate through String or Array Using a For Loop - Intro](https://drive.google.com/file/d/1e6cFjNbA4moy_7eMYEriDZ1ctRhJR46o/view?usp=sharing) - learn the meaning of `index`` and ``.length`` for strings and arrays
+    1. [Iterate through String or Array Using a For Loop - Intro](https://drive.google.com/file/d/1e6cFjNbA4moy_7eMYEriDZ1ctRhJR46o/view?usp=sharing) - learn the meaning of `index` and `.length` for strings and arrays
 
     1. [Visualize For Loop Iteration of a String](https://drive.google.com/file/d/1zgyCHuxwQCt2CQ_TfKIilE_3IKFzOla5/view?usp=sharing) - use Python Tutor to visualize referencing each index as well as the length of a string or array
 
