@@ -20,7 +20,7 @@
     - [Apple](https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711)
     - [YouTube](https://www.youtube.com/playlist?list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ)
 
-1. ### The Defiant with Camilla Russo 
+1. ### The Defiant - DeFi Podcast with Camilla Russo 
     The internet of money is being built with blockchain technology and without banks. We call it DeFi, short for Decentralized Finance, and this is where you can hear the builders and users of this cutting edge world tell their stories first hand. 
     - [Spotify](https://open.spotify.com/show/1dYQYB5WxUqmypXXkFuac0)
     - [Apple](https://podcasts.apple.com/us/podcast/the-defiant-defi-podcast/id1512654905)
