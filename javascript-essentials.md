@@ -38,6 +38,8 @@
 
     1. [Create a Arrow Function](https://drive.google.com/file/d/1qsmZBM4EvvP7qK9ReUXRviGgBsW5SgBJ/view?usp=sharing) - convert traditional function syntax using the function keyword to an Arrow Function
 
+1. [Reading Jest Tests to Complete Labs](https://drive.google.com/file/d/1p1eSbm4wvMj4UWbcj336Ja1IHCFS9oQw/view?usp=sharing) - Run Jest tests and learn to discern what they mean in order to create your functions and solve problems
+
 [Home][def]
 
 [def]: README.md
