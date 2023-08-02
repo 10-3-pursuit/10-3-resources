@@ -32,6 +32,11 @@
     - [Apple](https://podcasts.apple.com/us/podcast/the-bad-crypto-podcast/id1261133600)
     - [YouTube](https://www.youtube.com/playlist?list=PLZE4dJEs016Utc6ngMp_lsTB4I3Hu2jyQ)
 
+1.  ### Develop Yourself
+    To change careers and land your first job as a Software Engineer, you need more than just great software development skills - you need to develop yourself. Welcome to the podcast that helps you develop your skills, your habits, your network and more, all in hopes of becoming a thriving Software Engineer.
+    - [Spotify](https://open.spotify.com/show/69BHCbRAl6rHT9LlNhFWUy)
+    - [Apple](https://podcasts.apple.com/us/podcast/develop-yourself/id1583498998)
+
 
 [Home][def]
 
