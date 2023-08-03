@@ -1,6 +1,6 @@
 # NewsLetters
 
-Keep up with the latest tech news by subscribing to popular newsletters and new sites
+Keep up with the latest tech news by subscribing to popular newsletters and tech news sites
 
 
 1. [TechCrunch](https://techcrunch.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABAmiveBJ7BKJvzRe61D1HBk9O0YDFmEB7jDuObWcOst0ruajfp1nkj5uEhpM3rjkXm6lrZ6KYUjyqw4IMDQOIJ1-MMDoZP3MlGJaIsU9iokqaAhLQVzmM6fI7YA6HHJaCt46dxoLEg_Xcy3ptJ4GycpAPg0zEgDwz2mGHQRlev0) - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley
