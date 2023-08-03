@@ -24,3 +24,7 @@ Keep up with the latest tech news by subscribing to popular newsletters and tech
 1. [Girls Who Code News](https://girlswhocode.com/news) - They are on a mission to close the gender gap in tech.
 
 1. [Black Professionals in Tech](https://www.bptn.com/) - communication, resource and networking tool
+
+[Home][def]
+
+[def]: README.md
