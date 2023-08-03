@@ -19,7 +19,7 @@ Keep up with the latest tech news by subscribing to popular newsletters and new 
 
 1. [Tech Latino](https://substack.com/@techlatino) - biweekly newsletter  capturing the emerging trends, biggest deals, and exciting ideas in the LatAm technology environment
 
-1. [Latinas In Tech](https://latinasintech.org/blog)
+1. [Latinas In Tech](https://latinasintech.org/blog) -  is a non-profit organization with the aim to create a tech industry where Latinas are well-represented throughout all levels of the ecosystem by empowering them to be innovators and leaders
 
 1. [Girls Who Code News](https://girlswhocode.com/news) - They are on a mission to close the gender gap in tech.
 
