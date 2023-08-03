@@ -39,6 +39,12 @@
 
     1. **[Create a Arrow Function](https://drive.google.com/file/d/1qsmZBM4EvvP7qK9ReUXRviGgBsW5SgBJ/view?usp=sharing)** - convert traditional function syntax using the function keyword to an Arrow Function
 
+1. ## Scope
+    1. **[Global Scope](https://drive.google.com/file/d/1d4IajQLx8pvec3NsSa5f4HAuESt2TSqi/view?usp=sharing)**
+    
+    1. **[Function Scope](https://drive.google.com/file/d/13dNaxJybf_AL9OO556RGwC9LA0nADN6-/view?usp=sharing)**
+
+    1. **[Block or Local Scope](https://drive.google.com/file/d/1GeGD1DTRmCh2n2_Wtv7z7ka2QA7FrUEc/view?usp=sharing)** - visualize parameters, arguments as well as seeing the return value of a function
 
 1. ## Jest Tests
     1. **[Reading Jest Tests to Complete Labs](https://drive.google.com/file/d/1p1eSbm4wvMj4UWbcj336Ja1IHCFS9oQw/view?usp=sharing)** - Run Jest tests and learn to discern what they mean in order to create your functions and solve problems
