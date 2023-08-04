@@ -3,7 +3,7 @@
 
 
 `js
- let num = 10
+    let num = 10
 
     if(num < 5){
         num+=1  // reassign num variable to num+1
