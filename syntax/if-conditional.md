@@ -52,3 +52,7 @@ Example:
 ```
 
 **[Syntax Videos & Explanations](https://github.com/10-3-pursuit/10-3-resources/blob/main/javascript-essentials.md)**
+
+[Home][def]
+
+[def]: README.md
