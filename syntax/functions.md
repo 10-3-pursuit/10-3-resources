@@ -1,4 +1,4 @@
-# FUNCTION
+# FUNCTIONS
 
 Functions are blocks of code that can be saved and run repeatedly. 
 
