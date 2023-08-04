@@ -24,6 +24,8 @@ Syntax:
 
 **[Syntax Videos & Explanations](https://github.com/10-3-pursuit/10-3-resources/blob/main/javascript-essentials.md)**
 
-[Home][def]
+[Syntax Choices][def]
 
 [def]: README.md
+
+[Home](https://github.com/10-3-pursuit/10-3-resources/tree/main)
