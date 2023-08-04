@@ -2,7 +2,7 @@
 
 
 
-`js
+```js
     let num = 10
 
     if(num < 5){
@@ -13,4 +13,4 @@
         num++  // reassign num variable to num+1
     }
 
-`
+```
