@@ -45,6 +45,19 @@
     1. **[Function Scope](https://drive.google.com/file/d/13dNaxJybf_AL9OO556RGwC9LA0nADN6-/view?usp=sharing)**
 
     1. **[Block or Local Scope](https://drive.google.com/file/d/1GeGD1DTRmCh2n2_Wtv7z7ka2QA7FrUEc/view?usp=sharing)** - visualize parameters, arguments as well as seeing the return value of a function
+1. ## Objects
+    
+    1. **[Object Syntax - Part 1 ](https://drive.google.com/file/d/1VTdnei6aTeO4PuSU9uXvq5RbUU7L1hiS/view?usp=sharing)
+    1. **[Object Value Retrieval - Dot Notation - Part 2 ](https://drive.google.com/file/d/1NBlfA8oaU2v9f8S3zyqfjsAnUrgcqBes/view?usp=sharing)
+    1. **[Object Value Retrieval - Square Brakets - Part 3 ](https://drive.google.com/file/d/1PJF4vvl_H9ndIDoo7yfYRhllJpWFkmUH/view?usp=sharing)
+    1. **[Object Value Retrival Using a Variable - Part 4 ](https://drive.google.com/file/d/1whmNykkNc2bRHwENFFDSF71oLvGYDpIf/view?usp=sharing)
+    1. **[Adding a Property to an Object - Part 5 ](https://drive.google.com/file/d/1ftbu14ymfjwxJPrRuZtAbi6kQ0jOdJ_q/view?usp=sharing)
+    1. **[Object.keys - Create a New Array of Keys From Object  - Part 6 ](https://drive.google.com/file/d/1FXgb2motps1tBDGi4otbJLPhq_E-Sly9/view?usp=sharing)
+    1. **[Object.values - Create a New Array of Values From Object - Part 7 ](https://drive.google.com/file/d/1Y_pnr1--2vckmzJTCWeiuestNHXLcUiN/view?usp=sharing)
+    1. **[Object.entries - Create a New Array of Key/Value Array Pairs From Object - Part 8 ]()
+    1. **[Loop over Object using for...in - Part 9 ]()
+
+
 
 1. ## Jest Tests
     1. **[Reading Jest Tests to Complete Labs](https://drive.google.com/file/d/1p1eSbm4wvMj4UWbcj336Ja1IHCFS9oQw/view?usp=sharing)** - Run Jest tests and learn to discern what they mean in order to create your functions and solve problems
