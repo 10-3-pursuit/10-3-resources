@@ -1,5 +1,17 @@
 # JavaScript Essentials
 
+1. ## Pass By Value vs Pass By Reference Concept
+
+   - [Part 1](https://drive.google.com/file/d/13oDcd34M-Gat-g-8g0v5AMGm22jrTMHl/view?usp=share_link)
+
+   - [Part 2](https://drive.google.com/file/d/1KXLRBIxYXAPm5rvlRkTvJZ_lFZKNpxv5/view?usp=share_link)
+
+   - [Part 3](https://drive.google.com/file/d/17N0e784njcebpralNChF7WNru77VHq23/view?usp=share_link)
+
+   - [Part 4](https://drive.google.com/file/d/13Ff7tuXZAPtjvr4qKivX81ywzwOAK-rv/view?usp=share_link)
+
+   - [Part 5](https://drive.google.com/file/d/15Q5FgYfMIJs2nWR4ptGPK5MQWRaXrW9q/view?usp=share_link)
+
 1. ## Python Tutor Visualizer
     1. **[Get Your Hands Dirty & Visualize Your JavaScript Step by Step Using the Python Tutor Tool](https://drive.google.com/file/d/1A5uNeorZMFmetYoX3oz22u4lnpsgPucj/view?usp=sharing)**
 
@@ -45,6 +57,7 @@
     1. **[Function Scope](https://drive.google.com/file/d/13dNaxJybf_AL9OO556RGwC9LA0nADN6-/view?usp=sharing)**
 
     1. **[Block or Local Scope](https://drive.google.com/file/d/1GeGD1DTRmCh2n2_Wtv7z7ka2QA7FrUEc/view?usp=sharing)** - visualize parameters, arguments as well as seeing the return value of a function
+
 1. ## Objects
     
     1. **[Object Syntax - Part 1 ](https://drive.google.com/file/d/1VTdnei6aTeO4PuSU9uXvq5RbUU7L1hiS/view?usp=sharing)** - basic object syntax
