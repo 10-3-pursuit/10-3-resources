@@ -10,4 +10,4 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 1. [Newsletters](newsletters.md) - stay up to date in tech by reading the current 
 1. [External Resources](external-resources.md) - curated resources the you posted in the 10.3 Slack Channel
 1. [Miscellaneous Videos](miscellaneous-videos.md) - miscellaneous videos including 'Leveraging Your Learning with ChatGPT' and 'How To Google Like a Pro' newsletters
-1. [Treasures & Trinkets Project Videos](treasures-trinkets-project.md)
+1. [Treasures & Trinkets Project Videos](treasures-trinkets-project.md) - videos that introduce you to the Treasures and Trinkets Project as well as show you how to read and test the data
