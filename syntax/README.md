@@ -11,6 +11,8 @@ Quick references to JavaScript Syntax
 1. [Array](array.md)
 1. [Array Methods](array-methods.md)
 1. [String Methods](string-methods.md)
+1. [Command Line Basics](command-line-basics.md)
+1. [Git and Github Navigation](git-github-basics.md)
 
 **[Syntax Videos & Explanations](https://github.com/10-3-pursuit/10-3-resources/blob/main/javascript-essentials.md)**
 
