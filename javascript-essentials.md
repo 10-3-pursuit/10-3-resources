@@ -69,6 +69,7 @@
     
     1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return 
          - **[.filter part 1](https://drive.google.com/file/d/1JK4A4bKki02LgWTQPVOg7pjWB61Bh0gF/view?usp=sharing)**
+         
         - **[.filter part 2](https://drive.google.com/file/d/1S3Dhhu3ZOS3Ki9ejLt-cagY6QvxQ8sRF/view?usp=sharing)**
 
     1. `.reduce` - return a single value based on an array of elements. That single value can be of any data type. An object is a single value as is an array, a number a boolean or a string.
