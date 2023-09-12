@@ -14,3 +14,8 @@
     - Navigate to your Pull Request that you submitted
     - Copy the URL
     - Submit the URL on Canvas
+
+
+[Git & Github Essentials List](../git-and-github.md)
+
+[Home](https://github.com/10-3-pursuit/10-3-resources/tree/main)

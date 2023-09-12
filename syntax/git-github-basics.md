@@ -24,3 +24,7 @@ Example: git push origin main pushes your local changes to the "main" branch on 
 - `git status`:
 Shows the status of your working directory and any changes you've made.
 Example: git status
+
+[Git & Github Essentials List](../git-and-github.md)
+
+[Home](https://github.com/10-3-pursuit/10-3-resources/tree/main)

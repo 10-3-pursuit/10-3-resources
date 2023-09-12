@@ -10,3 +10,7 @@
     - git push origin main
 1. Open Your Fork on GitHub:
     - Go to your forked repository on GitHub.
+
+[Git & Github Essentials List](../git-and-github.md)
+
+[Home](https://github.com/10-3-pursuit/10-3-resources/tree/main)

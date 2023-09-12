@@ -20,3 +20,7 @@
         - Use the cd command to enter the repository directory: (e.g. `cd repository-name`)
 1. Open the Repository in VSCode:
     - Open VSCode by running `code .` in the terminal from within your repository directory.
+
+[Git & Github Essentials List](../git-and-github.md)
+
+[Home](https://github.com/10-3-pursuit/10-3-resources/tree/main)
