@@ -3,6 +3,7 @@
 The Resources below is an aggregation of your Module Calendars, Videos, External Resources and any tools that may come in handy for you as a programmer.
 
 1. [Module Calendars](module-calendars.md) - Contains class videos and links to the Github Repos for that class
+1. [Git & Github Essentials](git-and-github.md) - Contains links to videos, step-by-step instructions for Git and Github commands.
 1. [JavaScript Basic Videos](javascript-essentials.md) - short videos on JavaScript Basics and other concepts.
 1. [Syntax Code Examples](syntax) - simple code examples to reference JS syntax
 1. [Non-JS Syntax Videos](non-js-coding-syntax-videos.md) - videos for `markdown`, `git`, `pull requests`, `command line` etc. that are not JS.
