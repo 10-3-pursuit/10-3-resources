@@ -1,5 +1,7 @@
 # JavaScript Essentials
 
+<img src="./assets/javascript.jpg" alt="Github" width="300">
+
 1. ## Pass By Value vs Pass By Reference Concept
 
    - [Part 1](https://drive.google.com/file/d/13oDcd34M-Gat-g-8g0v5AMGm22jrTMHl/view?usp=share_link)
