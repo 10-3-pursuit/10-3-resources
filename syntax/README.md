@@ -2,7 +2,7 @@
 
 Quick references to JavaScript Syntax
 
-<img src="../assets/syntax.png" alt="Syntax" width="300">
+<img src="../assets/syntax.png" alt="Syntax" width="500">
 
 
 1. [Functions](functions.md)
