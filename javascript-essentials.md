@@ -61,6 +61,14 @@
     1. **[Object.entries - Part 8 ](https://drive.google.com/file/d/1QWHzSP_xAfMZ-AclwyKeUAJ55LR6-maT/view?usp=sharing)** - create a new array of arrays holding key/value pairs and loop over the parent array
     1. **[for...in - Part 9 ](https://drive.google.com/file/d/1POYCg0G54hDHntV9jtLcP5hcnQBX0BqJ/view?usp=sharing)** - loop over an object using for...in loop
 
+1. ## Higher Order Native Array Methods
+    1. `.map` - loop through a complete array and return a new array with values.
+        - **[.map part 1](https://drive.google.com/file/d/1ZIcRCoF__0C4cEWfJmZ3qHcJwnReJEUO/view?usp=drive_link)**
+        - **[.map part 2](https://drive.google.com/file/d/1SULNoJG0-rjPRx8HyjKdmjkICiIpM74L/view?usp=drive_link)**
+    1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return
+
+    1. `.reduce` - return a single value based on an array of elements. That single value can be of any data type. An object is a single value as is an array, a number a boolean or a string.
+
 1. ## Pass By Value vs Pass By Reference Concept
 
    - **[Pass By Value Introduction](https://drive.google.com/file/d/13oDcd34M-Gat-g-8g0v5AMGm22jrTMHl/view?usp=share_link)**
@@ -72,16 +80,6 @@
    - **[Object Gotchas Because of Pass By Reference](https://drive.google.com/file/d/15Q5FgYfMIJs2nWR4ptGPK5MQWRaXrW9q/view?usp=share_link)**
 
    - **[Nested Object and/or Array Gotchas Because of Pass By Reference](https://drive.google.com/file/d/13Ff7tuXZAPtjvr4qKivX81ywzwOAK-rv/view?usp=share_link)**
-
-   
-
-1. ## Native Array Methods
-    1. `.map` - loop through a complete array and return a new array with values.
-        - **[.map part 1](https://drive.google.com/file/d/1ZIcRCoF__0C4cEWfJmZ3qHcJwnReJEUO/view?usp=drive_link)**
-        - **[.map part 2](https://drive.google.com/file/d/1SULNoJG0-rjPRx8HyjKdmjkICiIpM74L/view?usp=drive_link)**
-    1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return
-
-    1. `.reduce` - return a single value based on an array of elements. That single value can be of any data type. An object is a single value as is an array, a number a boolean or a string.
 
 1. ## Jest Tests
     1. **[Reading Jest Tests to Complete Labs](https://drive.google.com/file/d/1p1eSbm4wvMj4UWbcj336Ja1IHCFS9oQw/view?usp=sharing)** - Run Jest tests and learn to discern what they mean in order to create your functions and solve problems
