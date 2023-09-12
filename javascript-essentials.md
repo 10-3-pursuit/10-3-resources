@@ -1,6 +1,6 @@
 # JavaScript Essentials
 
-<img src="./assets/javascript.jpg" alt="Github" width="300">
+<img src="./assets/javascript.jpg" alt="JavaScript" width="300">
 
 1. ## Pass By Value vs Pass By Reference Concept
 
