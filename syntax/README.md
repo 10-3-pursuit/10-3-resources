@@ -2,6 +2,8 @@
 
 Quick references to JavaScript Syntax
 
+<img src="../assets/syntax.jpg" alt="Syntax" width="300">
+
 
 1. [Functions](functions.md)
 1. [If Statements](if-conditional.md)
