@@ -73,7 +73,13 @@
 
    - [Part 5](https://drive.google.com/file/d/15Q5FgYfMIJs2nWR4ptGPK5MQWRaXrW9q/view?usp=share_link)
 
-
+1. ## Native Array Methods
+    1. `.map` - loop through a complete array and return a new array with values.
+        - [.map part 1](https://drive.google.com/file/d/1ZIcRCoF__0C4cEWfJmZ3qHcJwnReJEUO/view?usp=drive_link)
+        - [.map part 2](https://drive.google.com/file/d/1SULNoJG0-rjPRx8HyjKdmjkICiIpM74L/view?usp=drive_link)
+    1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return
+    1. `.reduce`
+    
 1. ## Jest Tests
     1. **[Reading Jest Tests to Complete Labs](https://drive.google.com/file/d/1p1eSbm4wvMj4UWbcj336Ja1IHCFS9oQw/view?usp=sharing)** - Run Jest tests and learn to discern what they mean in order to create your functions and solve problems
 
