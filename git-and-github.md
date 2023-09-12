@@ -3,7 +3,7 @@
 
 
 1. Git & Github Step-By-Step Instructions
-    1. [Forking & Clonine](./syntax/git-forking-and-cloning.md)
+    1. [Forking & Cloning](./syntax/git-forking-and-cloning.md)
     1. [Git - Making Changes](./syntax/git-making-changes-and-pushing.md) - add, commit and push to your repo
     1. [Create a Pull Request](./syntax/github-pull-request.md) - how to submit your labs through Github
 1. Git & Github Videos - learn how to fork, clone and make a pull request
