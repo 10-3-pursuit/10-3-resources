@@ -11,4 +11,5 @@
     1. [Fork, Clone & Open My Repo](https://drive.google.com/file/d/1rVmd8MFE-WksI8ce8x6GwOrp3riAe4s7/view?usp=sharing)
     1. [Stage (`git add`), Commit (`git commit`) and push (`git push origin main`) my work from the Main Branch](https://drive.google.com/file/d/1NbbvOQssxUVLHvl24poUaih8H4opVJ_O/view?usp=sharing)
     1. [Make a `pull request` and turn in my work](https://drive.google.com/file/d/1OB50C1v8BYM5SkLh5sTIh-xK5gRs1JL5/view?usp=drive_link)
-1. [Git Cheat Sheet](assets)
+1. Cheat Sheets
+    1. [Git Cheat Sheet](assets)
