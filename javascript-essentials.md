@@ -2,17 +2,6 @@
 
 <img src="./assets/javascript.jpg" alt="JavaScript" width="300">
 
-1. ## Pass By Value vs Pass By Reference Concept
-
-   - [Part 1](https://drive.google.com/file/d/13oDcd34M-Gat-g-8g0v5AMGm22jrTMHl/view?usp=share_link)
-
-   - [Part 2](https://drive.google.com/file/d/1KXLRBIxYXAPm5rvlRkTvJZ_lFZKNpxv5/view?usp=share_link)
-
-   - [Part 3](https://drive.google.com/file/d/17N0e784njcebpralNChF7WNru77VHq23/view?usp=share_link)
-
-   - [Part 4](https://drive.google.com/file/d/13Ff7tuXZAPtjvr4qKivX81ywzwOAK-rv/view?usp=share_link)
-
-   - [Part 5](https://drive.google.com/file/d/15Q5FgYfMIJs2nWR4ptGPK5MQWRaXrW9q/view?usp=share_link)
 
 1. ## Python Tutor Visualizer
     1. **[Get Your Hands Dirty & Visualize Your JavaScript Step by Step Using the Python Tutor Tool](https://drive.google.com/file/d/1A5uNeorZMFmetYoX3oz22u4lnpsgPucj/view?usp=sharing)**
@@ -72,6 +61,17 @@
     1. **[Object.entries - Part 8 ](https://drive.google.com/file/d/1QWHzSP_xAfMZ-AclwyKeUAJ55LR6-maT/view?usp=sharing)** - create a new array of arrays holding key/value pairs and loop over the parent array
     1. **[for...in - Part 9 ](https://drive.google.com/file/d/1POYCg0G54hDHntV9jtLcP5hcnQBX0BqJ/view?usp=sharing)** - loop over an object using for...in loop
 
+1. ## Pass By Value vs Pass By Reference Concept
+
+   - [Part 1](https://drive.google.com/file/d/13oDcd34M-Gat-g-8g0v5AMGm22jrTMHl/view?usp=share_link)
+
+   - [Part 2](https://drive.google.com/file/d/1KXLRBIxYXAPm5rvlRkTvJZ_lFZKNpxv5/view?usp=share_link)
+
+   - [Part 3](https://drive.google.com/file/d/17N0e784njcebpralNChF7WNru77VHq23/view?usp=share_link)
+
+   - [Part 4](https://drive.google.com/file/d/13Ff7tuXZAPtjvr4qKivX81ywzwOAK-rv/view?usp=share_link)
+
+   - [Part 5](https://drive.google.com/file/d/15Q5FgYfMIJs2nWR4ptGPK5MQWRaXrW9q/view?usp=share_link)
 
 
 1. ## Jest Tests
