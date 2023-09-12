@@ -64,8 +64,10 @@
 1. ## Higher Order Native Array Methods
     1. `.map` - loop through a complete array and return a new array with values.
         - **[.map part 1](https://drive.google.com/file/d/1ZIcRCoF__0C4cEWfJmZ3qHcJwnReJEUO/view?usp=sharing)**
+
         - **[.map part 2](https://drive.google.com/file/d/1SULNoJG0-rjPRx8HyjKdmjkICiIpM74L/view?usp=sharing)**
-    1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return
+    
+    1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return 
          - **[.filter part 1](https://drive.google.com/file/d/1JK4A4bKki02LgWTQPVOg7pjWB61Bh0gF/view?usp=sharing)**
         - **[.filter part 2](https://drive.google.com/file/d/1S3Dhhu3ZOS3Ki9ejLt-cagY6QvxQ8sRF/view?usp=sharing)**
 
