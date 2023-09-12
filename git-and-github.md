@@ -1,6 +1,6 @@
 # GIT AND GITHUB ESSENTIALS
 
-
+<img src="./assets/github.jpg" alt="Github" width="300">
 
 1. Git & Github Step-By-Step Instructions
     1. [Git & Github Basics Syntax](./syntax/git-github-basics.md)
