@@ -52,13 +52,21 @@
 1. ## Objects
     
     1. **[Object Syntax - Part 1 ](https://drive.google.com/file/d/1VTdnei6aTeO4PuSU9uXvq5RbUU7L1hiS/view?usp=sharing)** - basic object syntax
+
     1. **[Object Value Retrieval - Dot Notation - Part 2 ](https://drive.google.com/file/d/1NBlfA8oaU2v9f8S3zyqfjsAnUrgcqBes/view?usp=sharing)** - use dot notation to retrieve values from an object
+    
     1. **[Object Value Retrieval - Square Brakets - Part 3 ](https://drive.google.com/file/d/1PJF4vvl_H9ndIDoo7yfYRhllJpWFkmUH/view?usp=sharing)** - use square brackets and key names to retrieve values from an object
+    
     1. **[Object Value Retrival Using a Variable - Part 4 ](https://drive.google.com/file/d/1whmNykkNc2bRHwENFFDSF71oLvGYDpIf/view?usp=sharing)** - use square brackets and variables to retrieve values from an object
+    
     1. **[Adding a Property to an Object - Part 5 ](https://drive.google.com/file/d/1ftbu14ymfjwxJPrRuZtAbi6kQ0jOdJ_q/view?usp=sharing)** - add a new key/value pair to an object
+    
     1. **[Object.keys  - Part 6 ](https://drive.google.com/file/d/1FXgb2motps1tBDGi4otbJLPhq_E-Sly9/view?usp=sharing)** - create a new array of keys and loop over the array
+    
     1. **[Object.values - Part 7 ](https://drive.google.com/file/d/1Y_pnr1--2vckmzJTCWeiuestNHXLcUiN/view?usp=sharing)** - create a new array of values and loop over the array
+    
     1. **[Object.entries - Part 8 ](https://drive.google.com/file/d/1QWHzSP_xAfMZ-AclwyKeUAJ55LR6-maT/view?usp=sharing)** - create a new array of arrays holding key/value pairs and loop over the parent array
+    
     1. **[for...in - Part 9 ](https://drive.google.com/file/d/1POYCg0G54hDHntV9jtLcP5hcnQBX0BqJ/view?usp=sharing)** - loop over an object using for...in loop
 
 1. ## Higher Order Native Array Methods
@@ -69,7 +77,7 @@
     
     1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return 
          - **[.filter part 1](https://drive.google.com/file/d/1JK4A4bKki02LgWTQPVOg7pjWB61Bh0gF/view?usp=sharing)**
-         
+
         - **[.filter part 2](https://drive.google.com/file/d/1S3Dhhu3ZOS3Ki9ejLt-cagY6QvxQ8sRF/view?usp=sharing)**
 
     1. `.reduce` - return a single value based on an array of elements. That single value can be of any data type. An object is a single value as is an array, a number a boolean or a string.
