@@ -78,6 +78,7 @@
         - [.map part 1](https://drive.google.com/file/d/1ZIcRCoF__0C4cEWfJmZ3qHcJwnReJEUO/view?usp=drive_link)
         - [.map part 2](https://drive.google.com/file/d/1SULNoJG0-rjPRx8HyjKdmjkICiIpM74L/view?usp=drive_link)
     1. `.filter` - loop through a complete array, give a condition to decide which elements in the array to return
+    
     1. `.reduce` - return a single value based on an array of elements. That single value can be of any data type. An object is a single value as is an array, a number a boolean or a string.
 
 1. ## Jest Tests
