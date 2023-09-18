@@ -4,4 +4,4 @@
 
 - [`getDinosaursAliveMya()` function explanation](https://drive.google.com/file/d/145DvfDhtBYmU1U3fPBOprq6A7qNoWZKb/view?usp=sharing)
 
-- [How To Handle Your 1:1 Project Presentation](https://drive.google.com/file/d/1NomZSbpySXGNqVi-V7Hel9R4kqx4s5tQ/view)
+- [How To Approach Your 1:1 Project Presentation](https://drive.google.com/file/d/1NomZSbpySXGNqVi-V7Hel9R4kqx4s5tQ/view)
