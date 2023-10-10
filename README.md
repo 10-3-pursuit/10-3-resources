@@ -26,10 +26,10 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
-1. [Jest Test Lab Demo](jest-test-lab.md) - demo of how to approach the [lab-test-with-jest](https://github.com/10-3-pursuit/lab-test-with-jest) lab.
-
 1. [Command Line CRUD Videos](command-line.crud.md) - video walkthroughs of both the project as well as the lesson that the project is based on
 
 1. [Treasures & Trinkets Project Videos](treasures-trinkets-project.md) - videos that introduce you to the Treasures and Trinkets Project as well as show you how to read and test the data
 
 1. [Dinosaur Museum Project Videos](dinosaur-museum-project.md) - walk through of the data as well as the mya function and any other pertinent videos.
+
+1. [Jest Test Lab Demo](jest-test-lab.md) - demo of how to approach the [lab-test-with-jest](https://github.com/10-3-pursuit/lab-test-with-jest) lab.
