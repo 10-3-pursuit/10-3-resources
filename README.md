@@ -28,7 +28,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Jest Test Lab Demo](jest-test-lab.md) - demo of how to approach the [lab-test-with-jest](https://github.com/10-3-pursuit/lab-test-with-jest) lab.
 
-1. [Command Line CRUD Lesson Video Walkthrough](https://github.com/10-3-pursuit/video-walkthrough-command-line-crud-application) - you can code along with this video which correlates with the [Command Line CRUD Application](https://github.com/10-3-pursuit/unit-front-end-web-development/tree/main/command-line-crud-application) lesson
+1. [Command Line CRUD Videos](command-line.crud.md) - video walkthroughs of both the project as well as the lesson that the project is based on
 
 1. [Treasures & Trinkets Project Videos](treasures-trinkets-project.md) - videos that introduce you to the Treasures and Trinkets Project as well as show you how to read and test the data
 
