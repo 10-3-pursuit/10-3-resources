@@ -26,7 +26,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
-1. [Command Line CRUD Videos](command-line.crud.md) - video walkthroughs of both the project as well as the lesson that the project is based on
+1. [Command Line CRUD Videos](command-line-crud.md) - video walkthroughs of both the project as well as the lesson that the project is based on
 
 1. [Treasures & Trinkets Project Videos](treasures-trinkets-project.md) - videos that introduce you to the Treasures and Trinkets Project as well as show you how to read and test the data
 
