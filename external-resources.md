@@ -2,7 +2,7 @@
 
 These are resources you may have posted in the Slack Channel that may be worthwhile.
 
-1. [Mac Terminal Commands Cheatsheet](mac-terminal-commands.pdf)
+1. [Mac Terminal Commands Cheatsheet](assets)
 
 1. [JavaScript Cheat Sheet that you should bookmark](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id)
 
