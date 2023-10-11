@@ -2,13 +2,13 @@
 
 These are resources you may have posted in the Slack Channel that may be worthwhile.
 
-1. [Mac Terminal Commands Cheatsheet](assets)
+1. [Mac Terminal Commands Cheatsheet](https://github.com/10-3-pursuit/10-3-resources/blob/main/assets/mac-terminal-commands.pdf)
 
 1. [JavaScript Cheat Sheet that you should bookmark](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id)
 
-1. [Git Cheat Sheet](assets)
+1. [Git Cheat Sheet](https://github.com/10-3-pursuit/10-3-resources/blob/main/assets/git-cheatsheet.pdf)
 
-1. [VSCode Cheat Sheet](assets)
+1. [VSCode Cheat Sheet](https://github.com/10-3-pursuit/10-3-resources/blob/main/assets/vscode-shortcuts.pdf)
 
 1. [Logical OR `||` Evaluates from Left to Right](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
 
