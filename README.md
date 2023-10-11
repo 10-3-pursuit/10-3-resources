@@ -6,7 +6,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Module Calendars](module-calendars.md) - Contains class videos and links to the Github Repos for that class
 
-1. [Cheatsheets](cheatsheets.md)
+1. [Cheatsheets](cheatsheets.md) - cheatsheet pdfs for various commands e.g. command line, VSCode, Git
 
 1. [Tools](tools.md) - developer tools for you to experiment with and leverage
 
