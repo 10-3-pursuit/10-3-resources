@@ -4,7 +4,7 @@
 
 <img src="./assets/desktop-addressbook.jpg" alt="CRUD" width="500">
 
-[STARTER CODE: ( if you want to code along )](https://github.com/10-3-pursuit/form-events-starter-jd)
+**[STARTER CODE: ( if you want to code along )](https://github.com/10-3-pursuit/form-events-starter-jd)**
 
 ## ADDRESS BOOK DEMO VIDEOS
 
