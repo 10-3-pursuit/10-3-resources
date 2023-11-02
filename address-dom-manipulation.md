@@ -29,5 +29,4 @@
 
 1. [Increment the count in the header](https://drive.google.com/file/d/1oVttfZRCOrzZz8saII69U9dSxp8e-xtF/view?usp=sharing)
 
-[ADDRESS BOOK CLASS CODE INCLUDING COMMENTED CODE]
-(https://github.com/10-3-pursuit/address-book-class-code)
+[ADDRESS BOOK CLASS CODE INCLUDING COMMENTED CODE](https://github.com/10-3-pursuit/address-book-class-code)
