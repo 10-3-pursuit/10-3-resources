@@ -10,7 +10,7 @@
 
 1. [Application Demo](https://drive.google.com/file/d/150zIUDqTt3mQk6TEcNgEH4NN0fVzc48h/view?usp=sharing)
 
-1. [Code Walkthrough](https://drive.google.com/file/d/150zIUDqTt3mQk6TEcNgEH4NN0fVzc48h/view?usp=sharing)
+1. [Code Walkthrough](https://drive.google.com/file/d/1W6sAa4Q13KmedE-NLDRdUOotL1aShGQS/view?usp=sharing)
 
 1. [Prevent page refresh when submitting form](https://drive.google.com/file/d/1fVBlh8i8sYGYR3_x2YMWmn2MPkpmm1Qn/view?usp=sharing)
 
