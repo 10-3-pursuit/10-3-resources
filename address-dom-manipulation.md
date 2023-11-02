@@ -15,7 +15,7 @@
 
 1. [Prevent page refresh when submitting form](https://drive.google.com/file/d/1fVBlh8i8sYGYR3_x2YMWmn2MPkpmm1Qn/view?usp=sharing)
 
-1. [Grab Input Values from the Browser(https://drive.google.com/file/d/17tVO-KeRpePQQ51Enn2LdUyFUAYCBGfd/view?usp=sharing)
+1. [Grab Input Values from the Browser](https://drive.google.com/file/d/17tVO-KeRpePQQ51Enn2LdUyFUAYCBGfd/view?usp=sharing)
 
 1. [Use Input Values to add a Contact to the DOM](https://drive.google.com/file/d/1EZK4GuM2DvDAa8sXKiSIlMbX8HF2-XYS/view?usp=sharing)
 
