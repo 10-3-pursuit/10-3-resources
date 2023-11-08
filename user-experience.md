@@ -50,7 +50,7 @@ Investigate and note the structure of or more of these Case Studies
 
 - [Adobe XD -](https://www.adobe.com/products/xd.html) High Fidelity
 
-- [Balsamic-](https://balsamiq.com/ https://balsamiq.com/). Low Fidelity
+- [Balsamic-](https://balsamiq.com/). Low Fidelity
 
 - [Figma -](https://www.figma.com/) Low Fidelity & High Fidelity
 
