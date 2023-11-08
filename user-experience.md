@@ -45,9 +45,10 @@ Investigate and note the structure of or more of these Case Studies
 - [20 Wireframe Examples](https://www.flux-academy.com/blog/20-wireframe-examples-for-web-design)
 
 - [How To Create Your First Wireframe](https://www.youtube.com/watch?v=qpH7-KFWZRI)
+
 - [Wireframe.cc (featured in the video) -](https://wireframe.cc/) Low Fidelity
 
-- [Adobe XD -](https://www.adobe.com/products/xd.html) High Fidelity)
+- [Adobe XD -](https://www.adobe.com/products/xd.html) High Fidelity
 
 - [Balsamiq -](https://balsamiq.com/ https://balsamiq.com/). Low Fidelity
 
