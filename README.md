@@ -39,3 +39,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 1. [Dinosaur Museum Project Videos](dinosaur-museum-project.md) - walk through of the data as well as the mya function and any other pertinent videos.
 
 1. [Jest Test Lab Demo](jest-test-lab.md) - demo of how to approach the [lab-test-with-jest](https://github.com/10-3-pursuit/lab-test-with-jest) lab.
+
+### User Experience
+
+1. [UX & UI Resources](user-experience.md)
