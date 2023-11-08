@@ -54,7 +54,7 @@ Investigate and note the structure of or more of these Case Studies
 
 - [Figma -](https://www.figma.com/) Low Fidelity & High Fidelity
 
-- [Marvel -](https://marvelapp.com/)
+- [Marvel](https://marvelapp.com/)
 
 [Home][def]
 
