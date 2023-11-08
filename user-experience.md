@@ -38,23 +38,7 @@ Investigate and note the structure of or more of these Case Studies
 1. [Memento](https://mahsakeyhani.com/memento.html)
 1. [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
 
-## UX TOOLS
-
-### Wireframes
-
-- [20 Wireframe Examples](https://www.flux-academy.com/blog/20-wireframe-examples-for-web-design)
-
-- [How To Create Your First Wireframe](https://www.youtube.com/watch?v=qpH7-KFWZRI)
-
-- [Wireframe.cc (featured in the video) -](https://wireframe.cc/) Low Fidelity
-
-- [Adobe XD -](https://www.adobe.com/products/xd.html) High Fidelity
-
-- [Balsamic-](https://balsamiq.com/) Low Fidelity
-
-- [Figma -](https://www.figma.com/) Low Fidelity & High Fidelity
-
-- [Marvel](https://marvelapp.com/)
+[**UX Tools**](ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
 
 [Home][def]
 
