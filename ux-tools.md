@@ -22,7 +22,7 @@
 
 - [Canva](https://www.canva.com/) - online graphic design tool
 
-[Project Tools & Assets](project-tools)
+[Project Tools & Assets](project-tools)- tons of assets and tools for you to use to develop your web applications
 
 [Home][def]
 

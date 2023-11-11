@@ -40,7 +40,7 @@ Investigate and note the structure of or more of these Case Studies
 
 [**UX Tools**](ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
 
-[Project Tools & Assets](project-tools)
+[Project Tools & Assets](project-tools) - tons of assets and tools for you to use to develop your web applications
 
 
 [Home][def]
