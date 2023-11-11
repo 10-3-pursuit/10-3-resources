@@ -28,6 +28,8 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Miscellaneous Videos](miscellaneous-videos.md) - miscellaneous videos including 'Leveraging Your Learning with ChatGPT' and 'How To Google Like a Pro' newsletters
 
+### [Project Tools & Assets](project-tools) - tons of assets and tools for you to use to develop your web applications
+
 ### Projects & Lab Videos & Demos
 
 1. [DOM MANIPULATION VIDEOS - Address Book](address-dom-manipulation.md) - step by step videos to use HTML, CSS & JS DOM Manipulation to build an address book of contacts.
