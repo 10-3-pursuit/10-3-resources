@@ -6,7 +6,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Module Calendars](module-calendars.md) - Contains class videos and links to the Github Repos for that class
 
-1. [Coding Style Guides](style-guides.md)
+1. [Coding Style Guides](style-guides.md) - many jobs have guides that you must follow for both code and design
 
 1. [Cheatsheets](cheatsheets.md) - cheatsheet pdfs for various commands e.g. command line, VSCode, Git
 
@@ -32,7 +32,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Tools & Assets Page](project-tools) - tons of assets and tools for you to use to develop your web applications
 
-1. [How to Create A Great README.md file](https://github.com/matiassingers/awesome-readme)
+1. [How to Create A Great README.md file](https://github.com/matiassingers/awesome-readme) - use this guide to create a top notch readme file
 
 
 ### Projects & Lab Videos & Demos
