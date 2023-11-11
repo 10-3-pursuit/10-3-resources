@@ -32,6 +32,9 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Tools & Assets Page](project-tools) - tons of assets and tools for you to use to develop your web applications
 
+1. [How to Create A Great README.md file](https://github.com/matiassingers/awesome-readme)
+
+
 ### Projects & Lab Videos & Demos
 
 1. [DOM MANIPULATION VIDEOS - Address Book](address-dom-manipulation.md) - step by step videos to use HTML, CSS & JS DOM Manipulation to build an address book of contacts.
