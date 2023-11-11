@@ -4,9 +4,7 @@
 
 1. [Favicon.ioh](https://favicon.io/)
 
-<br />
-<br />
-<br />
+
 [Back to Project Tools List][def]
 
 [def]: readme.md
