@@ -2,8 +2,9 @@
 
 1. [Favicon from emoji generator](https://favicon.io/emoji-favicons/)
 
-1. [Favicon.ioh](ttps://favicon.io/)
+1. [Favicon.ioh](https://favicon.io/)
 
+<br />
 [Back to Project Tools List][def]
 
 [def]: readme.md
