@@ -18,22 +18,17 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [External Resources](external-resources.md) - curated resources the you posted in the 10.3 Slack Channel
 
-### Programming Videos & Instructions
-
-1. [Git & Github Essentials](git-and-github.md) - Contains links to videos, step-by-step instructions for Git and Github commands
-
-1. [JavaScript Basic Videos](javascript-essentials.md) - short videos on JavaScript Basics and other concepts
-
-1. [Non-JS Syntax Videos](non-js-coding-syntax-videos.md) - videos for `markdown`, `git`, `pull requests`, `command line` etc. that are not JS
-
-1. [Miscellaneous Videos](miscellaneous-videos.md) - miscellaneous videos including 'Leveraging Your Learning with ChatGPT' and 'How To Google Like a Pro' newsletters
-
 ### Project Tools & Assets
 
 1. [Tools & Assets Page](project-tools) - tons of assets and tools for you to use to develop your web applications
 
 1. [How to Create A Great README.md file](https://github.com/matiassingers/awesome-readme) - use this guide to create a top notch readme file
 
+### User Experience
+
+1. [UX & UI Resources](user-experience.md) - plan the UX of your site by learning and adding personas, wireframs etc.
+
+1. [UX Tools](ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
 
 ### Projects & Lab Videos & Demos
 
@@ -49,8 +44,16 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Jest Test Lab Demo](jest-test-lab.md) - demo of how to approach the [lab-test-with-jest](https://github.com/10-3-pursuit/lab-test-with-jest) lab.
 
-### User Experience
 
-1. [UX & UI Resources](user-experience.md) - plan the UX of your site by learning and adding personas, wireframs etc.
 
-1. [UX Tools](ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
+### Programming Videos & Instructions
+
+1. [Git & Github Essentials](git-and-github.md) - Contains links to videos, step-by-step instructions for Git and Github commands
+
+1. [JavaScript Basic Videos](javascript-essentials.md) - short videos on JavaScript Basics and other concepts
+
+1. [Non-JS Syntax Videos](non-js-coding-syntax-videos.md) - videos for `markdown`, `git`, `pull requests`, `command line` etc. that are not JS
+
+1. [Miscellaneous Videos](miscellaneous-videos.md) - miscellaneous videos including 'Leveraging Your Learning with ChatGPT' and 'How To Google Like a Pro' newsletters
+
+
