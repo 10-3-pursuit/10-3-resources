@@ -28,7 +28,9 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Miscellaneous Videos](miscellaneous-videos.md) - miscellaneous videos including 'Leveraging Your Learning with ChatGPT' and 'How To Google Like a Pro' newsletters
 
-### [Project Tools & Assets](project-tools) - tons of assets and tools for you to use to develop your web applications
+### Project Tools & Assets
+
+1. [Tools & Assets Page](project-tools) - tons of assets and tools for you to use to develop your web applications
 
 ### Projects & Lab Videos & Demos
 
