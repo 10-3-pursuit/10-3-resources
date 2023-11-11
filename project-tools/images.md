@@ -10,4 +10,8 @@
 
 1. ChatGPT creates images using Dall-E
 
+[Back to Project Tools List][def]
+
+[def]: readme.md
+
 [Home](../README.md)
