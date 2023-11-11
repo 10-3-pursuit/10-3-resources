@@ -48,6 +48,6 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### User Experience
 
-1. [UX & UI Resources](user-experience.md)
+1. [UX & UI Resources](user-experience.md) - plan the UX of your site by learning and adding personas, wireframs etc.
 
 1. [UX Tools](ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
