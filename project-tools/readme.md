@@ -18,7 +18,7 @@ These tools can help you to upgrade as well as speed up productivity when used w
 
 1. [CSS Frameworks](css-frameworks.md) - use a framework to develop a cohesive css style in your web app
 
-1. [UX & UI Resources](../user-experience.md)
+1. [UX & UI Resources](../user-experience.md) - plan the UX of your site by learning and adding personas, wireframs etc.
 
 1. [UX Tools](../ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
 
