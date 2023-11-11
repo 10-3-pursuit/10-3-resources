@@ -22,6 +22,4 @@ These tools can help you to upgrade as well as speed up productivity when used w
 
 1. [UX Tools](../ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
 
-[Home][../def]
-
-[def]: README.md
+[Home](../README.md)
