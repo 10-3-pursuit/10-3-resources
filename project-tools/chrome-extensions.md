@@ -11,3 +11,5 @@
 1. [What Font](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 1. [Font Finder ](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha)
+
+[Home](../README.md)
