@@ -2,6 +2,8 @@
 
 These tools can help you to upgrade as well as speed up productivity when used well.
 
+1. [HTML Templates](html-templates.md) - sometimes we need a little help with the design of our website. Use an HTML template to get you started.
+
 1. [Palette Generators](palette-generators.md) - create your web colors in a snap
 
 1. [Fonts](fonts.md) - pairings, inspiration and suggestions
