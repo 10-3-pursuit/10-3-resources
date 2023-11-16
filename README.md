@@ -32,6 +32,8 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
+1. [FETCH & POPULATE DOM VIDEOS FOR FRONT END PORTFOLIO](fetch-and-populate-dom.md)
+
 1. [DOM MANIPULATION VIDEOS - Address Book](address-dom-manipulation.md) - step by step videos to use HTML, CSS & JS DOM Manipulation to build an address book of contacts.
 
 1. [How to Create A Great README.md file](https://github.com/matiassingers/awesome-readme)
@@ -44,8 +46,6 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [Jest Test Lab Demo](jest-test-lab.md) - demo of how to approach the [lab-test-with-jest](https://github.com/10-3-pursuit/lab-test-with-jest) lab.
 
-
-
 ### Programming Videos & Instructions
 
 1. [Git & Github Essentials](git-and-github.md) - Contains links to videos, step-by-step instructions for Git and Github commands
@@ -55,5 +55,3 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 1. [Non-JS Syntax Videos](non-js-coding-syntax-videos.md) - videos for `markdown`, `git`, `pull requests`, `command line` etc. that are not JS
 
 1. [Miscellaneous Videos](miscellaneous-videos.md) - miscellaneous videos including 'Leveraging Your Learning with ChatGPT' and 'How To Google Like a Pro' newsletters
-
-
