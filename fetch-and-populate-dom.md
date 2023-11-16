@@ -1,4 +1,4 @@
-# FETCH & POPULAT DOM VIDEOS
+# USING FETCH TO CALL THIRD PARTY API & DOM VIDEOS
 
 These videos help you to fetch from an API endpoint both statically and dynamically as well as add the API information to your HTML
 
