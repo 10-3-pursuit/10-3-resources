@@ -32,7 +32,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
-1. [FETCH & POPULATE DOM VIDEOS FOR FRONT END PORTFOLIO](fetch-and-populate-dom.md)
+1. [FETCH & POPULATE DOM WITH API INFO - FOR FRONT END PORTFOLIO](fetch-and-populate-dom.md) - use the fetch command to
 
 1. [DOM MANIPULATION VIDEOS - Address Book](address-dom-manipulation.md) - step by step videos to use HTML, CSS & JS DOM Manipulation to build an address book of contacts.
 
