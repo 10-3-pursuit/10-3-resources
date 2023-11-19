@@ -32,7 +32,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
-1. **[Transition Week, Intro to React](intro-to-react.md)** - code along with these videos to learn the very basics of React and how different it is from DOM Manipulation.
+1. **[Transition Week, Intro to React](intro-to-react.md)** - during your transition from Mod2 to Mod 3...code along with these videos to learn the very basics of React and how different it is from DOM Manipulation.
 
 1. [FETCH & POPULATE DOM WITH API INFO - FOR FRONT END PORTFOLIO PROJECT](fetch-and-populate-dom.md) - use the fetch command to get information from a third party API and return that information to your HTML.
 
