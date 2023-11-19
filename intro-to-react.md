@@ -2,9 +2,9 @@
 
 These videos will help you prepare for the Module 3 material. **Definitely get your hands dirty and code along.**
 
-To code along with these videos, feel free to clone the
+To code along with these videos, clone the
 
-### [React Basic Starter](https://github.com/10-3-pursuit/react-basic-starter) from Github
+### [React Basic Starter](https://github.com/10-3-pursuit/react-basic-starter)
 
 1. [Thinking in Components](https://drive.google.com/file/d/1m_aZ0y-qxQgNvNZbvYhAnsMeJ9t9plrn/view?usp=sharing)
 
