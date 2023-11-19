@@ -32,6 +32,8 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
+1. [Transition Week, Intro to React](intro-to-react.md) - code along with these videos to learn the very basics of React and how different it is from DOM Manipulation.
+
 1. [FETCH & POPULATE DOM WITH API INFO - FOR FRONT END PORTFOLIO PROJECT](fetch-and-populate-dom.md) - use the fetch command to get information from a third party API and return that information to your HTML.
 
 1. [DOM MANIPULATION VIDEOS - Address Book](address-dom-manipulation.md) - step by step videos to use HTML, CSS & JS DOM Manipulation to build an address book of contacts.
