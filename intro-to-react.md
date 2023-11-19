@@ -6,6 +6,8 @@ To code along with these videos, clone the
 
 ### [React Basic Starter](https://github.com/10-3-pursuit/react-basic-starter)
 
+---
+
 1. [Thinking in Components](https://drive.google.com/file/d/1m_aZ0y-qxQgNvNZbvYhAnsMeJ9t9plrn/view?usp=sharing)
 
 1. [Compare Grid Lab code in regular HTML and in React](https://drive.google.com/file/d/12JR_H5E65WHrleZO29Vykqg6es1sttdj/view?usp=sharing)
