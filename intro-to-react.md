@@ -4,7 +4,7 @@ These videos will help you prepare for the Module 3 material. **Definitely get y
 
 To code along with these videos, clone the
 
-### [React Basic Starter](https://github.com/10-3-pursuit/react-basic-starter)
+### [React Basic Starter Github Repo](https://github.com/10-3-pursuit/react-basic-starter)
 
 ---
 
