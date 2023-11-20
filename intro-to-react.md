@@ -28,6 +28,10 @@ To code along with these videos, clone the
 
 1. [Creating Lists in Components](https://drive.google.com/file/d/1TmwegI1qarg1qMp7EZ8FS7HGJsyVubMH/view?usp=sharing)
 
+After you finish these videos. Get your hands Dirty and try the
+
+## [Pokemon Layout Challenge](https://github.com/10-3-pursuit/react-prep-pokemon-layout)
+
 [Home][def]
 
 [def]: README.md
