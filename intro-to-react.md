@@ -8,6 +8,8 @@ To code along with these videos, clone the
 
 ---
 
+1. [Why React?](https://drive.google.com/file/d/1S_xX3m_ET_gMlThWQEWEeX4k7gg_ijyu/view)
+
 1. [Thinking in Components](https://drive.google.com/file/d/1m_aZ0y-qxQgNvNZbvYhAnsMeJ9t9plrn/view?usp=sharing)
 
 1. [Compare Grid Lab code in regular HTML and in React](https://drive.google.com/file/d/12JR_H5E65WHrleZO29Vykqg6es1sttdj/view?usp=sharing)
