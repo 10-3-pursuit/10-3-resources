@@ -32,7 +32,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
-1. \*\*[DEPLOY TO NETLIFY](netlify-deployment.md) - deploy your ReactJS application to the web using Netlify.com.
+1. **[DEPLOY TO NETLIFY](netlify-deployment.md)** - deploy your ReactJS application to the web using Netlify.com.
 
 1. **[Transition Week, Intro to React](intro-to-react.md)** - during your transition from Mod2 to Mod 3...code along with these videos to learn the very basics of React and how different it is from DOM Manipulation.
 
