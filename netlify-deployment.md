@@ -1,4 +1,4 @@
-# NETLIFY DEPLOY
+# NETLIFY DEPLOYMENT
 
 **Netlify is a great environment for deploying both ReactJS and static applications.
 Check out the videos below to see how to connect your Github repo to Netlify**
