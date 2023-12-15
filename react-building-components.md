@@ -1,6 +1,6 @@
 # Building React Components and Preventing Unnecessary Rerenders
 
-### The videos show how:
+### These videos show how:
 
 - you would go about creating your own app by coding in App.jsx first and then moving relevant pieces of code to individual components
 - components are triggered to re-render when we update state, sometimes unnecessarily
