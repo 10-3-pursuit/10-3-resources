@@ -18,6 +18,12 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. [External Resources](external-resources.md) - curated resources the you posted in the 10.3 Slack Channel
 
+### Deployment
+
+1. **[DEPLOY BACKEND TO RENDER.com](render-deployment.md)** - deploy your backend server to render.com and connect it to your Netlify front end deployment.
+
+1. **[DEPLOY FRONTEND TO NETLIFY](netlify-deployment.md)** - deploy your ReactJS application to the web using Netlify.com.
+
 ### ReactJS
 
 1. **[useEffect Hook Videos](react-use-effect.md)** - watch demos to see how we use useEffect to handle asynchronous side effects.
@@ -37,12 +43,6 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 1. [UX & UI Resources](user-experience.md) - plan the UX of your site by learning and adding personas, wireframs etc.
 
 1. [UX Tools](ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
-
-### Deployment
-
-1. **[DEPLOY BACKEND TO RENDER.com](render-deployment.md)** - deploy your backend server to render.com and connect it to your Netlify front end deployment.
-
-1. **[DEPLOY FRONTEND TO NETLIFY](netlify-deployment.md)** - deploy your ReactJS application to the web using Netlify.com.
 
 ### Projects, Lab Videos & Demos
 
