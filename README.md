@@ -28,8 +28,6 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. **[useEffect Hook Videos](react-use-effect.md)** - watch demos to see how we use useEffect to handle asynchronous side effects.
 
-1. **[DEPLOY TO NETLIFY](netlify-deployment.md)** - deploy your ReactJS application to the web using Netlify.com.
-
 1. **[REACT Building Components](react-building-components.md)** - Move your code from App.jsx into components and avoid unnecessary re-rendering.
 
 ### Project Tools & Assets
