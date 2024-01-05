@@ -40,7 +40,9 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Projects & Lab Videos & Demos
 
-1. **[DEPLOY TO NETLIFY](netlify-deployment.md)** - deploy your ReactJS application to the web using Netlify.com.
+1. \*\*[DEPLOY BACKEND TO RENDER.com](render-deployment.md) - deploy your backend server to render.com and connect it to your Netlify front end deployment.
+
+1. **[DEPLOY FRONTEND TO NETLIFY](netlify-deployment.md)** - deploy your ReactJS application to the web using Netlify.com.
 
 1. **[REACT Building Components](react-building-components.md)** - Move your code from App.jsx into components and avoid unnecessary re-rendering.
 
