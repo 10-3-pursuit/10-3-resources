@@ -71,5 +71,3 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 1. [Non-JS Syntax Videos](non-js-coding-syntax-videos.md) - videos for `markdown`, `git`, `pull requests`, `command line` etc. that are not JS
 
 1. [Miscellaneous Videos](miscellaneous-videos.md) - miscellaneous videos including 'Leveraging Your Learning with ChatGPT' and 'How To Google Like a Pro' newsletters
-
-1. Fake Line
