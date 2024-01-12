@@ -9,6 +9,10 @@ Check out the videos below to see how to connect your Github repo to Netlify**
 - [Update Deployed Application](https://drive.google.com/file/d/1dD07Wut9-NWk_EPayhxAiJ7_IP3DZu_m/view?usp=sharing) - push to your Github main branch and trigger an update on Netlify
 - [Add Enveronment Variable](https://drive.google.com/file/d/1StpT3iToip0g9p8SenBlzK5u2lwStgt0/view?usp=sharing) - add an API key to your Netlify application
 
+### DEPLOYMENT INSTRUCTIONS
+
+- [Deploying a Vite React App with Netlify](https://github.com/pursuit-curriculum-resources/guide-deployment/tree/main/netlify-vite-react)
+
 [Home][def]
 
 [def]: README.md
