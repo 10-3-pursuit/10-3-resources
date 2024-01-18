@@ -2,7 +2,7 @@
 
 ### Clone Already Created Server (just add data)
 
-- [JSON Server Starter](https://github.com/10-3-pursuit/json-server-starter) - instructions are in the readme.md file of the server.
+- [JSON Server Starter](https://github.com/10-3-pursuit/json-server-starter) - json-server implementation instructions are in the readme.md file of the server.
 
 ### VIDEOS
 
