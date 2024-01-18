@@ -32,6 +32,8 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Project Tools & Assets
 
+1. [JSON Server](json-server.md) - perfect tool to spin up a quick backend server with your own API data without creating a database or an ExpressJS backend
+
 1. [Tools & Assets Page](project-tools) - tons of assets and tools for you to use to develop your web applications
 
 1. [How to Create A Great README.md file](https://github.com/matiassingers/awesome-readme) - use this guide to create a top notch readme file
