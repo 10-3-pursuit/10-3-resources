@@ -14,9 +14,9 @@ This file (public/\_redirects) must contain the following text:
 /* /index.html 200
 ```
 
-[Redirect Article & Explanation](https://ridbay.medium.com/react-routing-and-netlify-redirects-fd1f00eeee95)
+- [Redirect Article & Explanation](https://ridbay.medium.com/react-routing-and-netlify-redirects-fd1f00eeee95)
 
-[Netlify Redirect Docs](https://docs.netlify.com/routing/redirects/redirect-options/)
+- [Netlify Redirect Docs](https://docs.netlify.com/routing/redirects/redirect-options/)
 
 ### VIDEOS
 
