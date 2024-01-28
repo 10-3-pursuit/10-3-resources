@@ -3,7 +3,7 @@
 **Netlify is a great environment for deploying both ReactJS and static applications.
 Check out the videos below to see how to connect your Github repo to Netlify**
 
-**SPECIAL NOTE FOR `REACT ROUTER` users:**
+**\*\* SPECIAL NOTE FOR `REACT ROUTER` users:**
 
 If you are using `React Router` in your application, you will need to take an extra step. The default configuration on Netlify only shows a React App's root (home page) view. If you have configured React Router, have an about page (or any other page view), and sent a URL to the /about page to a friend, it will give a 404 or redirect back to the home view.
 
