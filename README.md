@@ -32,6 +32,8 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Project Tools & Assets
 
+1. [Store Images and Create URLs](https://drive.google.com/file/d/1fjgGIsHje2pOmnGi7LW_f2Z_uA4HUa_R/view?usp=sharing) - use [Cloudinary](http://cloudinary.com) to store images and create URLs that you can add to your JSON data
+
 1. [JSON Server](json-server.md) - perfect tool to spin up a quick backend server with your own API data without creating a database or an ExpressJS backend
 
 1. [Tools & Assets Page](project-tools) - tons of assets and tools for you to use to develop your web applications
