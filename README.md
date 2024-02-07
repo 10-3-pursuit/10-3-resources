@@ -26,6 +26,8 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### ReactJS
 
+1. **[React Context](react-context.md)** - watch video demos and code along to learn how to create context instead of having to lift state and use prop drilling
+
 1. **[useEffect Hook Videos](react-use-effect.md)** - watch demos to see how we use useEffect to handle asynchronous side effects.
 
 1. **[REACT Building Components](react-building-components.md)** - Move your code from App.jsx into components and avoid unnecessary re-rendering.
