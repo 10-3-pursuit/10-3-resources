@@ -2,7 +2,11 @@
 
 ## Repo [LINK](https://github.com/jdrichards-pursuit/react-context-starter) - if you want to code along with the video
 
-**\*\*NOTE: If you want to see the final solution:** 1. clone the repo 1. run `git fetch` 1. run `git switch solution`
+**\*\*NOTE: If you want to see the final solution:**
+
+1. clone the repo
+1. run `git fetch`
+1. run `git switch solution`
 
 This will put you on the solution branch where you are able to see the final code.
 
