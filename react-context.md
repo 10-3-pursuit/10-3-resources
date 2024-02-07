@@ -5,7 +5,7 @@
 **\*\*NOTE: If you want to see the final solution:**
 
 1. clone the [starter repo](https://github.com/jdrichards-pursuit/react-context-starter)
-1. cd into the repo
+1. `cd` into the repo
 1. run `git fetch`
 1. run `git switch solution`
 
