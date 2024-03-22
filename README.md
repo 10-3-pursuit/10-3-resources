@@ -35,9 +35,16 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 ### Project Tools & Assets
 
 1. Front and Backend React & Express Authentication starters - just setup your db and add your code -
+   **Repos**
 
    - [Express, Postgresql, pg-promise Backend](https://github.com/10-3-pursuit/auth-express-login) - this backend implements JWT, httpOnly cookies, and csrf protection for you out of the box.
    - [React Frontend](https://github.com/10-3-pursuit/auth-react-login) - use a Protected Route to prevent logged out users from visiting secure routes.
+
+   **Video Demos**
+
+   - [Express Authentication & Login Starter Demo pt. 1](https://us06web.zoom.us/rec/play/a0ZTmy5rNhTyotC8pGfj_A72QDrLkezvIzbGdTbCu5_Cm0aRCcys6a1VL2hHaYmp3KaBjw1UCuGRweHM.i2mcMoTShYigO4eG?canPlayFromShare=true&from=share_recording_detail&startTime=1710861741000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F7fRdLJwazl7crAT4igmSujHbLg8JKWbunudGg2TcmROPXE3PUUPWv4i3v6Eaz96I.K8ICdprLeovJDSjy%3FstartTime%3D1710861741000)
+   - [Express Authentication & Login Starter Demo pt. 2](https://us06web.zoom.us/rec/share/7fRdLJwazl7crAT4igmSujHbLg8JKWbunudGg2TcmROPXE3PUUPWv4i3v6Eaz96I.K8ICdprLeovJDSjy?startTime=1710864108000)
+   - [React Authentication & Login Starter Demo](https://us06web.zoom.us/rec/share/7fRdLJwazl7crAT4igmSujHbLg8JKWbunudGg2TcmROPXE3PUUPWv4i3v6Eaz96I.K8ICdprLeovJDSjy?startTime=1710865581000)
 
 1. [Store Images and Create URLs](https://drive.google.com/file/d/1fjgGIsHje2pOmnGi7LW_f2Z_uA4HUa_R/view?usp=sharing) - use [Cloudinary](http://cloudinary.com) to store images and create URLs that you can add to your JSON data
 
