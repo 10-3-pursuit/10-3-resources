@@ -32,6 +32,10 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. **[REACT Building Components](react-building-components.md)** - Move your code from App.jsx into components and avoid unnecessary re-rendering.
 
+### Postgresql
+
+1. **[Many-to-Many Repo](https://github.com/10-3-pursuit/many-to-many-server-songs-playlists)** - this repo demonstrates how to create a many-to-many realationship in Express, Postgresql using the many-to-many relationship between songs and playlists. Code is included.
+
 ### Project Tools & Assets
 
 1. Front and Backend React & Express Authentication starters - just setup your db and add your code -
