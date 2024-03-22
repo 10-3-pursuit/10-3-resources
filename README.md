@@ -34,7 +34,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Project Tools & Assets
 
-1. Front and Backend Authentication starters - just setup your db and add your code -
+1. Front and Backend React & Express Authentication starters - just setup your db and add your code -
 
    - [Express, Postgresql, pg-promise Backend](https://github.com/10-3-pursuit/auth-express-login) - this backend implements JWT, httpOnly cookies, and csrf protection for you out of the box.
    - [React Frontend](https://github.com/10-3-pursuit/auth-react-login) - use a Protected Route to prevent logged out users from visiting secure routes.
