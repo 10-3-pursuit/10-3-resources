@@ -34,6 +34,11 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Project Tools & Assets
 
+1. Front and Backend Authentication starters - just setup your db and add your code -
+
+   - [Express, Postgresql, pg-promise Backend](https://github.com/10-3-pursuit/auth-express-login) - this backend implements JWT, httpOnly cookies, and csrf protection for you out of the box.
+   - [React Frontend](https://github.com/10-3-pursuit/auth-react-login) - use a Protected Route to prevent logged out users from visiting secure routes.
+
 1. [Store Images and Create URLs](https://drive.google.com/file/d/1fjgGIsHje2pOmnGi7LW_f2Z_uA4HUa_R/view?usp=sharing) - use [Cloudinary](http://cloudinary.com) to store images and create URLs that you can add to your JSON data
 
 1. [JSON Server](json-server.md) - perfect tool to spin up a quick backend server with your own API data without creating a database or an ExpressJS backend
