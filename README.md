@@ -24,7 +24,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 1. **[DEPLOY FRONTEND TO NETLIFY](netlify-deployment.md)** - deploy your ReactJS application to the web using Netlify.com.
 
-1. **[DEPLOY PostgresQL Database using Postico and ElephantSQL](https://github.com/10-3-pursuit/database-deploy-postico-elephant)** - deploy your database using the app [Postico](https://eggerapps.at/postico2/) and [ElephantSQL](https://www.elephantsql.com/)
+1. **[DEPLOY PostgresQL Database using Postico and ElephantSQL](db-deploy.md)** - deploy your database using the app [Postico](https://eggerapps.at/postico2/) and [ElephantSQL](https://www.elephantsql.com/)
 
 ### ReactJS
 
