@@ -4,19 +4,21 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Resources
 
-1. [Module Calendars](module-calendars.md) - Contains class videos and links to the Github Repos for that class
+1.  [Data Structures](data-structures.md) - Videos around Data Structure Concepts such as Recursion, Bubble Sort etc.
 
-1. [Coding Style Guides](style-guides.md) - many jobs have guides that you must follow for both code and design
+1.  [Module Calendars](module-calendars.md) - Contains class videos and links to the Github Repos for that class
 
-1. [Cheatsheets](cheatsheets.md) - cheatsheet pdfs for various commands e.g. command line, VSCode, Git
+1.  [Coding Style Guides](style-guides.md) - many jobs have guides that you must follow for both code and design
 
-1. [Tools](tools.md) - developer tools for you to experiment with and leverage
+1.  [Cheatsheets](cheatsheets.md) - cheatsheet pdfs for various commands e.g. command line, VSCode, Git
 
-1. [Podcasts](podcasts.md) - stay up to date in tech with the latest tech podcasts
+1.  [Tools](tools.md) - developer tools for you to experiment with and leverage
 
-1. [Newsletters](newsletters.md) - stay up to date in tech by reading the current
+1.  [Podcasts](podcasts.md) - stay up to date in tech with the latest tech podcasts
 
-1. [External Resources](external-resources.md) - curated resources the you posted in the 10.3 Slack Channel
+1.  [Newsletters](newsletters.md) - stay up to date in tech by reading the current
+
+1.  [External Resources](external-resources.md) - curated resources the you posted in the 10.3 Slack Channel
 
 ### Deployment
 
