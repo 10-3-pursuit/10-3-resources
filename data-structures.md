@@ -30,9 +30,8 @@
 
 ### Problem Solving Techniques
 
-- [Sliding Window Technique](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm
-  https://www.geeksforgeeks.org/window-sliding-technique/)
-
+- [Sliding Window Technique - dev.to](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm)
+  [Sliding Window Technique - geeksforgeeks.org](https://www.geeksforgeeks.org/window-sliding-technique/)
 - [Two Pointer Technique - basedash](https://www.basedash.com/blog/the-two-pointers-technique-in-javascript)
 - [Two Pointer Technique - tutorialspoint](https://www.tutorialspoint.com/javascript-program-for-two-pointers-technique)
 
@@ -52,5 +51,7 @@
 ### Paid Resources
 
 - Neetcode - https://neetcode.io/
+
 - [Grokking Coding Interview Patterns in JavaScript](https://www.educative.io/courses/grokking-coding-interview-patterns-javascript)
+
 - [JavaScript Algorithms and Data Structures Masterclass with Colt Steele](https://www.udemy.com/course/s-algorithms-and-data-structures-masterclass/learn/lecture/11183942?start=180#overview)
