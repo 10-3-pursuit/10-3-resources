@@ -26,7 +26,9 @@
 
 ### Videos
 
-- [DSA Fundamentals Videos with Alvin](https://www.youtube.com/playlist?list=PLxQ8cCJ6LyOZHhAjIYrEFWcfYdyJl5VYf)
+- [DSA Fundamentals Videos with Alvin](https://www.youtube.com/playlist?list=PLxQ8cCJ6LyOZHhAjIYrEFWcfYdyJl5VYf) - Alvin is a great explainer and makes DSA sound simple and logical.
+
+- [Recursion - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM&list=PLo_rV1nU1M_K-uwVfRpMNigH9xlFl2ePw&index=8&t=2953s) - goes into more advanced algorithms as well as how to solve recursively. Even though the language is not JavaScript it is easily readable.
 
 ### Problem Solving Techniques
 
