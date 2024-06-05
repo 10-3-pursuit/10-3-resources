@@ -105,10 +105,12 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
 - [Google Fonts](https://fonts.google.com/)
 - [Line Lengths](https://fonts.google.com/knowledge/glossary/measure_line_length)
 - [Readability: The Optimal Line Length](https://baymard.com/blog/line-length-readability)
-- [Uber Based Web Components](https://baseweb.design/components/)
-- [Semantic UI Web Components](https://semantic-ui.com/introduction/getting-started.html)
-- [Clarity Design Components](https://clarity.design/documentation/accordion)
-- [Open Source Design Systems](https://open-ui.org/design-systems/)
+- Design Systems
+  - [Tailwind UI](https://tailwindui.com/templates)
+  - [Uber Based Web Components](https://baseweb.design/components/)
+  - [Semantic UI Web Components](https://semantic-ui.com/introduction/getting-started.html)
+  - [Clarity Design Components](https://clarity.design/documentation/accordion)
+  - [Open Source Design Systems](https://open-ui.org/design-systems/)
 - Free Stock Photos
   - [Unsplash](https://unsplash.com/)
   - [Pixabay](https://pixabay.com/)
@@ -121,8 +123,6 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
   - [Art Box](https://artbox.today/)
 - Icons
   - [The Noun Project](https://thenounproject.com/)
-- CSS Templates
-  - [Tailwind UI](https://tailwindui.com/templates)
 - [Animation/Easings](https://easings.net/)
 - [Avatar Library](https://www.dicebear.com/)
 - [WHYSIWYG Editors](https://github.com/JefMari/awesome-wysiwyg-editors)
