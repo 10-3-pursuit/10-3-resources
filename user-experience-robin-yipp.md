@@ -1,6 +1,6 @@
 # UX OVERVIEW with Robin Yipp
 
-<img src="./assets/product-design.png" width="650" height="400">
+<img src="./assets/product-design.png" width="550" height="350">
 
 Here are video time stamps & tangible resources for the comprehensive overview of UX by Robin Yipp.
 Subjects include Visual Design, User Stories, Color Theory, Typography, Style Guides, UI Kits and more.
