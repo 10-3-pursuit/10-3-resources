@@ -121,8 +121,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
   - [Humaans](https://www.humaaans.com/)
   - [MixKit](https://mixkit.co/free-stock-art/)
   - [Art Box](https://artbox.today/)
-- Icons
-  - [The Noun Project](https://thenounproject.com/)
+- [Icons - The Noun Project](https://thenounproject.com/)
 - [Animation/Easings](https://easings.net/)
 - [Avatar Library](https://www.dicebear.com/)
 - [WHYSIWYG Editors](https://github.com/JefMari/awesome-wysiwyg-editors)
