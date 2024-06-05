@@ -19,7 +19,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
      - Proximity (Gestalt Principle) (_18:36 - 20:08_)
      - 10 Usability Heuristics (_20:09 - 25:35_)
  1. **Designing Your First MVP** (_25:36 - 59:18_) 
-     1. **Product Design Process**
+     1. _**Product Design Process**_
           1. Phase 1-4 Overview (_25:38 - 27:10_)
           1. Phase 1: Discovery (_27:11 - 29:12_)
           1. Phase 2: Define (Choose Problem Space, User Story, Competitive Analysis)  (_29:13 - 36:48_)
@@ -33,7 +33,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
                Wireframes - (_46:10 - 58:28_)
           1. Phase 4: Setting Up for Implementation (_58:29 - 59:18_)
 1. **Style Guide & UI Kit** (_59:19 - 1:24:50_)
-     1. **Style Guide** - 
+     1. _**Style Guide**_ - 
           - Intro (_1:00:21 - 1:04:50_)
           - Style guide examples- (_1:04:51 - 1:07:00_)
           - Style Guide Recap/Recommendations (_1:07:00 - 1:08:40_)
