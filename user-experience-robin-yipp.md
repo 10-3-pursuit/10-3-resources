@@ -32,16 +32,16 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
                Site Maps - (_43:44 - 46:09_)
                Wireframes - (_46:10 - 58:28_)
           1. Phase 4: Setting Up for Implementation (_58:29 - 59:18_)
-1. **Style Guide & UI Kit** (_59:19 - 1:24:50_)
-     1. _**Style Guide**_ - 
-          - Intro (_1:00:21 - 1:04:50_)
-          - Style guide examples- (_1:04:51 - 1:07:00_)
-          - Style Guide Recap/Recommendations (_1:07:00 - 1:08:40_)
-          - Style Guide Elements (_1:08:40
-          a. Color Theory, Color Psychology & Emotional Associations (_1:08:40 - 1:12:55_)
-          a. 60-30-10 Rule (_1:12:56 - 1:14:23_)
-          a. Typography (_1:14:23 - 1:22:03_)
-     1. **UI Kits** - Component Libraries (_1:22:03 - 1:24:50_)
+     1. **Style Guide & UI Kit** (_59:19 - 1:24:50_)
+          1. _**Style Guide**_ - 
+               - Intro (_1:00:21 - 1:04:50_)
+               - Style guide examples- (_1:04:51 - 1:07:00_)
+               - Style Guide Recap/Recommendations (_1:07:00 - 1:08:40_)
+               - Style Guide Elements (_1:08:40
+               a. Color Theory, Color Psychology & Emotional Associations (_1:08:40 - 1:12:55_)
+               a. 60-30-10 Rule (_1:12:56 - 1:14:23_)
+               a. Typography (_1:14:23 - 1:22:03_)
+          1. **UI Kits** - Component Libraries (_1:22:03 - 1:24:50_)
 1. **Recap/Bringing Your App to life** (_1:24:50 - 1:27:08_)
 1. **Resources** (_1:27:08 - 1:30:22_)
 1. **Mentor Collaboration Recommendations** (_1:30:23 - 1:33:16_)
