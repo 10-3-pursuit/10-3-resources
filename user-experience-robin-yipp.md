@@ -4,15 +4,15 @@ Here are the video time stamps & tangible resources for the comprehensive overvi
 Subjects include Visual Design, User Stories, Color Theory, Typography, Style Guides, UI Kits and more.
 
 
- 1. Intro to UX Design 00:00 - 08:09 
- 1. UX Design Principles101 -  08:09 - 25:36
-        Visual Design Principles Intro - 08:09 - 10:27
-         Scale - 10:28 - 11:59
-         Visual Hierarchy - 11:59 - 14:08
-         Balance - 14:09 - 16:50
-         Contrast - 16:51 - 18:34
-         Proximity (Gestalt Principle) 18:36 - 20:08
-         10 Usability Heuristics - 20:09 - 25:35
+ 1. **Intro to UX Design** - _00:00 - 08:09_ 
+ 1. **UX Design Principles** 101 -  _08:09 - 25:36_
+     - Visual Design Principles Intro - 08:09 - 10:27
+     - Scale - 10:28 - 11:59
+     - Visual Hierarchy - 11:59 - 14:08
+     - Balance - 14:09 - 16:50
+     - Contrast - 16:51 - 18:34
+     - Proximity (Gestalt Principle) 18:36 - 20:08
+     - 10 Usability Heuristics - 20:09 - 25:35
  1. Designing Your First MVP - 25:36 - 59:18  
          Product Design Process 
             Phase 1-4 Overview - 25:38 - 27:10
