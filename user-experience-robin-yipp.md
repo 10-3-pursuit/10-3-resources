@@ -22,7 +22,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
      1. **Product Design Process**
           1. Overview (_25:38 - 27:10_)
           1. Phase 1: Discovery (_27:11 - 29:12_)
-          1. Phase 2: Define (Choose Problem Space, User Story, Competitive Analysis)  (_29:13 - 36:48_)
+          1. Phase 2: Define (_29:13 - 36:48_)
                - Intro (_29:13 - 29:55_)
                - Choose Problem Space ("How Might We") (_29:56 - 31:18_)
                - User Story (_31:19 - 33:53_)
