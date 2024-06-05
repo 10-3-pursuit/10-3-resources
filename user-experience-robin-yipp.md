@@ -20,7 +20,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
      - 10 Usability Heuristics (_20:09 - 25:35_)
  1. **Designing Your First MVP** (_25:36 - 59:18_) 
      1. Product Design Process
-            0. Phase 1-4 Overview (_25:38 - 27:10_)
+            1. Phase 1-4 Overview (_25:38 - 27:10_)
             1. Phase 1: Discovery (_27:11 - 29:12_)
             1. Phase 2: Define (Choose Problem Space, User Story, Competitive Analysis)  (_29:13 - 36:48_)
                - Intro (_29:13 - 29:55_)
