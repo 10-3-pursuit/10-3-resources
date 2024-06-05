@@ -4,8 +4,8 @@ Here are the video time stamps & tangible resources for the comprehensive overvi
 Subjects include Visual Design, User Stories, Color Theory, Typography, Style Guides, UI Kits and more.
 
 
- 1. **Intro to UX Design** - _00:00 - 08:09_ 
- 1. **UX Design Principles** 101 -  _08:09 - 25:36_
+ 1. **Intro to UX Design** (_00:00 - 08:09_) 
+ 1. **UX Design Principles 101**  (_08:09 - 25:36_)
      - Visual Design Principles Intro - 08:09 - 10:27
      - Scale - 10:28 - 11:59
      - Visual Hierarchy - 11:59 - 14:08
