@@ -65,6 +65,8 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### User Experience
 
+1. [UX Overview with Robin Yipp](user-experience-robin-yipp.md) - video time stamps & tangible resources for the comprehensive overview of UX by Robin Yipp. Subjects include Visual Design, User Stories, Color Theory, Typography, Style Guides, UI Kits and more.
+
 1. [UX & UI Resources](user-experience.md) - plan the UX of your site by learning and adding personas, wireframs etc.
 
 1. [UX Tools](ux-tools.md) - tools to build low and high fidelity wireframes, mind maps, workflow charts etc.
