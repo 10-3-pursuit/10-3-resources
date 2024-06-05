@@ -5,7 +5,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
 
 **[VIDEO LINK](https://us06web.zoom.us/rec/share/7yN75eLMSttC_eWtmt7onNBFkz27fWMVTLEm0nXEe1QnefnmCEpJUGtCWq6PT5q1.fBXMtyB5Ql2Lzl6c?startTime=1717524148000)**
 
-**[PRESENTATION DECK](https://docs.google.com/presentation/d/1LtwgXNQSiya-rs2BGqOpFGfsPGnz3jAtpVAV7NiSzo4/edit#slide=id.g420132f636_0_109)
+**[PRESENTATION DECK](https://docs.google.com/presentation/d/1LtwgXNQSiya-rs2BGqOpFGfsPGnz3jAtpVAV7NiSzo4/edit#slide=id.g420132f636_0_109)**
 
 ## VIDEO TIMESTAMPS
 
