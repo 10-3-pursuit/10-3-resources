@@ -41,7 +41,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
                a. Color Theory, Color Psychology & Emotional Associations (_1:08:40 - 1:12:55_)
                a. 60-30-10 Rule (_1:12:56 - 1:14:23_)
                a. Typography (_1:14:23 - 1:22:03_)
-          1. **UI Kits** - Component Libraries (_1:22:03 - 1:24:50_)
+          1. _**UI Kits**_ - Component Libraries (_1:22:03 - 1:24:50_)
 1. **Recap/Bringing Your App to life** (_1:24:50 - 1:27:08_)
 1. **Resources** (_1:27:08 - 1:30:22_)
 1. **Mentor Collaboration Recommendations** (_1:30:23 - 1:33:16_)
