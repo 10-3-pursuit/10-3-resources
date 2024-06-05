@@ -27,7 +27,7 @@ Subjects include Visual Design, User Stories, Color Theory, Typography, Style Gu
                - Choose Problem Space ("How Might We") (_29:56 - 31:18_)
                - User Story (_31:19 - 33:53_)
                - Competitive Analysis (_33:54 - 36:48_)
-     1.Phase 3: Develop (_36:50 - 58:28_) 	
+     1. Phase 3: Develop (_36:50 - 58:28_) 	
                User Flow Diagram (_37:14 - 43:43_)
                Site Maps - (_43:44 - 46:09_)
                Wireframes - (_46:10 - 58:28_)
