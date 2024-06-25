@@ -16,4 +16,4 @@ Here is a demo: [DEPLOYED DEMO](https://firebase-auth-portfilio-client.netlify.a
 - [FirebaseFrontend Register.jsx](https://drive.google.com/file/d/1GLfVYWCG9hoRuo3ZY_fjizP-ZsQaSFK6/view?usp=sharing)
 - [Firebase Frontend Sign In With Google](https://drive.google.com/file/d/1y4wJur8NDqcpoUySrJuMpZKqHPuo99R1/view?usp=sharing)
 - [Firebase Frontend: How to Protect Your Routes](https://drive.google.com/file/d/1USN8R8GKo5TkgYy4xlRRgaScKGA1os_l/view?usp=sharing)
-- [Seeding Your Data](https://drive.google.com/file/d/1l70jmYJDyP2mjIsgmhYdeR3qkkzWGv1Q/view?usp=sharing)
+- [Seeding Your Data](https://us06web.zoom.us/rec/share/KNPwFWcZZLf5efSxDHkf8Kl0F5Uc8caC9pG5Wi7bDNGDEr1thXlsPrLwtwF-an3w.sgf33nQJE6ycKM9e?startTime=1719338812000)
