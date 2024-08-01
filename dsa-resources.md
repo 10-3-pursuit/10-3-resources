@@ -10,7 +10,7 @@
 
 ## Video
 
-[DSA Fundamentals](https://www.youtube.com/playlist?list=PLxQ8cCJ6LyOZHhAjIYrEFWcfYdyJl5VYf) - Alvin is great I worked with him in my last school he works at google now
+[DSA Fundamentals](https://www.youtube.com/playlist?list=PLxQ8cCJ6LyOZHhAjIYrEFWcfYdyJl5VYf) - Great series and very clear explanations. Alvin is great I worked with him in my last school. He left and went to work at Google.
 
 ## Problem Solving Techniques
 
