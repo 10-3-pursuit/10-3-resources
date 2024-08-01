@@ -4,7 +4,7 @@ The Resources below is an aggregation of your Module Calendars, Videos, External
 
 ### Resources
 
-1. [More Advanced Data Structure External Resources](dsa-resources.md)
+1. [More Advanced Data Structure External Resources](dsa-resources.md) - post Demo Day Data Structure Resources you should look into.
 
 1. [Basic Data Structures](data-structures.md) - Videos around Data Structure Concepts such as Recursion, Bubble Sort etc.
 

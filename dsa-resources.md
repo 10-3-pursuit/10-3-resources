@@ -6,7 +6,7 @@ Paid
 
 - [Neetcode](https://neetcode.io/)
 - [Grokking Coding Interview Patterns in JavaScript](https://www.educative.io/courses/grokking-coding-interview-patterns-javascript)
-- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) - this is a super popular masterclass by Colt Steele
 - [Master the JavaScript Interview - may or may not be paid](https://www.educative.io/courses/master-the-javascript-interview)
 - [Hacking the Coding Interview - - may or may not be paid](https://www.educative.io/courses/coderust-hacking-the-coding-interview)
 
