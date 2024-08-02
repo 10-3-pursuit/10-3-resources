@@ -10,7 +10,7 @@
 
 ## Free
 
--[Geeks For Geeks Learn Data Structures and Algorithms](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=outind)
+- [Geeks For Geeks Learn Data Structures and Algorithms](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=outind)
 
 ## Video
 
