@@ -28,7 +28,7 @@
 
 - [https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm-data-structure-and-algorithm-tutorials/ ](https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm-data-structure-and-algorithm-tutorials/)
 
-## Books#
+## Books
 
 - [Cracking the Code Interview 6th edition](https://drive.google.com/file/d/11fkeTwGlJwndJDamIIPlJTa7JyYxtbaL/view?usp=sharing)
 
@@ -42,11 +42,11 @@
 
 ### Pascal's Triangle:
 
-[Math is Fun Explanation](https://www.mathsisfun.com/pascals-triangle.html)
+- [Math is Fun Explanation](https://www.mathsisfun.com/pascals-triangle.html)
 
-[JavaScript Article](https://www.geeksforgeeks.org/javascript-program-to-print-pascals-pattern-triangle-pyramid/)
+- [JavaScript Article](https://www.geeksforgeeks.org/javascript-program-to-print-pascals-pattern-triangle-pyramid/)
 
-[Video](https://www.youtube.com/watch?v=iakcznipu1M)
+- [Video](https://www.youtube.com/watch?v=iakcznipu1M)
 
 [Home][def]
 
