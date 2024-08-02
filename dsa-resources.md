@@ -8,6 +8,10 @@
 - [Master the JavaScript Interview](https://www.educative.io/courses/master-the-javascript-interview) - may or may not be paid
 - [Hacking the Coding Interview ](https://www.educative.io/courses/coderust-hacking-the-coding-interview) - may or may not be paid
 
+## Free
+
+-[Geeks For Geeks Learn Data Structures and Algorithms](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=outind)
+
 ## Video
 
 [DSA Fundamentals](https://www.youtube.com/playlist?list=PLxQ8cCJ6LyOZHhAjIYrEFWcfYdyJl5VYf) - Great series and very clear explanations. Alvin is great I worked with him in my last school. He left and went to work at Google.
