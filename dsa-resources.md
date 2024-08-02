@@ -46,7 +46,7 @@
 
 - [JavaScript Article](https://www.geeksforgeeks.org/javascript-program-to-print-pascals-pattern-triangle-pyramid/)
 
-- [Video](https://www.youtube.com/watch?v=iakcznipu1M)
+- [Leetcode Video](https://www.youtube.com/watch?v=iakcznipu1M)
 
 [Home][def]
 
