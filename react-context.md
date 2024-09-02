@@ -2,11 +2,11 @@
 
 <img src="./assets/react-context.webp" alt="React Context" width="500" height="500">
 
-## Repo [LINK](https://github.com/jdrichards-pursuit/react-context-starter) - if you want to code along with the video
+## Repo [LINK](https://github.com/jdrichards-pursuit/react-context-vite) - if you want to code along with the video
 
 **\*\*NOTE: If you want to see the final solution:**
 
-1. clone the [starter repo](https://github.com/jdrichards-pursuit/react-context-starter)
+1. clone the [starter repo](https://github.com/jdrichards-pursuit/react-context-vite)
 1. `cd` into the repo
 1. run `git fetch`
 1. run `git switch solution`
