@@ -11,7 +11,7 @@
 1. run `git fetch`
 1. run `git switch solution`
 
-This will put you on the solution branch where you are able to see the final code.
+This will navigate you to the solution branch where you are able to see the final code.
 
 ## VIDEO LINKS:
 
