@@ -23,6 +23,7 @@ This will navigate you to the solution branch where you are able to see the fina
 - [React Context - Form part 1](https://drive.google.com/file/d/1ZJ8SUgz6cvDVTOJUMMy9zZm0fBGlT2NG/view?usp=sharing) - walkthrough of the form code and consume the date from React Context in your form
 - [React Context Fort part 2 - event listeners](https://drive.google.com/file/d/1AwBSrqZxhixaA9FKB54uHBTvVf5ZaR0R/view?usp=sharing) - connect event listeners in the form
 - [React Context - useEffect & fetch](https://drive.google.com/file/d/1AO-ZS853LeLpxwwqPR7abVonK89XWIis/view?usp=sharing) - fetch data from the server to store in the state located in React Context
+  - Here is the [LINK](https://github.com/jdrichards-pursuit/react-context-server) to the server used in the video.
 
 [Home][def]
 
